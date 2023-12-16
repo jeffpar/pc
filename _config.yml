@@ -1,2 +1,2 @@
 theme: jekyll-theme-midnight
-exclude: [README.md,Gemfile,Gemfile.lock]
+exclude: [Gemfile,Gemfile.lock]

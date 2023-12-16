@@ -5,14 +5,22 @@
 
 h1 {
     font-size: 3em;
-    text-align: center;
     margin-top: 80px;
+    margin-bottom: 24px;
 }
 
-h2, h3 {
+h1, h2, h3, f4, h5, h6, p {
     text-align: center;
 }
 
 img {
     width: 100%;
+}
+
+p {
+    font-size: 18px;
+    line-height: 24px;
+    font-family: OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: normal;
+    color: #b6b6b6;
 }
